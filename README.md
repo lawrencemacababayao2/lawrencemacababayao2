@@ -30,12 +30,8 @@
 
 ## Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/lawrence-macababayao-a5170437b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="mailto:lawrencemacababayao2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://www.tiktok.com/@async.dev4?is_from_webapp=1&sender_device=pc" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
 </p>
 
